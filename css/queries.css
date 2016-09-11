@@ -1,0 +1,31 @@
+@media screen(max-width: 600px) {
+   body{
+    background-color: #F5F6CE;
+    text-align: center;
+      }
+      .icon-alarmclock ,.icon-video ,.icon-documents{
+      	margin-right: 45%;
+      }
+     .fondo-footer{
+     	background-color: #01A9DB;
+     }
+ }
+
+ @media screen(max-width:760px){
+ 	body{
+    text-align: center;
+      }
+ 	h2{
+ 		text-align: center;
+ 	}
+ 	footer{
+ 		background-color: #A9F5E1;
+ 	}
+}
+
+@media screen(max-width: 920px){
+	body{
+		text-align: center;
+	}
+}
+

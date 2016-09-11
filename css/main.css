@@ -1,0 +1,27 @@
+body{
+	margin: 0!important;
+}
+.fondo{
+	background-color: #31B404;
+}
+.bg{
+	background-image: url(../img/carousel-bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 20%;
+}
+.blue{
+	background-color: #01A9DB;
+}
+.blue2{
+	background-color: #81DAF5;
+}
+.gris{
+	background-color: #BDBDBD;
+}
+.orange{
+	background-color: #FE9A2E;
+}
+.orange2{
+	background-color: #FE642E; 
+}
