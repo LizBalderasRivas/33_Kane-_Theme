@@ -25,3 +25,54 @@ body{
 .orange2{
 	background-color: #FE642E; 
 }
+		/*Choose de package
+
+.bk-white{
+	background-color: white;
+	padding:2%;
+	border: solid #D0D0D0 1px;
+	width: 350px;
+}
+.package-block{
+	width: 300px;
+	height: 100px;
+}
+.blue-block{
+	background-color: #011C5D;
+}
+.price-block{
+		width:  300px;
+		height: 150px;
+		padding-top: 18%;
+		font-size: 1.3em;
+}
+.titulo-cate{
+		font-size: 2.0em;
+		padding-top: 9%;
+}
+hr{
+	color: #D0D0D0;
+	height: 1px;
+	opacity: 0.3;
+}
+.ml-2{
+	margin-left: 2%;
+
+}
+.mr-2{
+	margin-right: 2%;
+}
+.bg-azul{
+		background-color:  #0dc0c0;
+}
+.bg-cian{
+	background-color: #00FFFF;
+}
+span{
+	font-size: 30px;
+	font-weight: bold;
+}*/
+
+.borde{
+	border: 2px solid green;
+}
