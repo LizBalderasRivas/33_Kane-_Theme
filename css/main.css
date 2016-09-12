@@ -4,74 +4,230 @@ body{
 .fondo{
 	background-color: #31B404;
 }
+/*MENU*/
+.text-white{
+	color: white;
+}
+.ml{
+	margin-left: 35%;
+}
+.logo{
+	margin-left: 10%;
+}
+header{
+	padding: 5%;
+}
+/*BACKGROUND*/
 .bg{
 	background-image: url(../img/carousel-bg.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	padding: 20%;
+	/*padding: 15%;*/
 }
+.beautiful{
+	font-size: 400%;
+}
+.sub{
+	font-size: 250%;
+}
+/*PALETTE*/
 .blue{
 	background-color: #01A9DB;
+	width: 100%;
+	height: 150px;
+	margin-left: 85%;
 }
 .blue2{
 	background-color: #81DAF5;
+	width: 100%;
+	height: 150px;
+	margin-left: 70%;
 }
 .gris{
 	background-color: #BDBDBD;
+	width: 50%;
+	height: 150px;
+	margin-left: 25%;
 }
 .orange{
 	background-color: #FE9A2E;
+	width: 100%;
+	height: 150px;
+	margin-left: -69%;
 }
 .orange2{
 	background-color: #FE642E; 
+	width: 100%;
+	height: 150px;
+	margin-left: -85%;
 }
-		/*Choose de package
-
-.bk-white{
-	background-color: white;
+.pink{
+	background-color: #F781D8;
+	width: 100%;
+	height: 150px;
+	margin-left: 85%;
+}
+.vino{
+	background-color: #3B0B17;
+	width: 100%;
+	height: 150px;
+	margin-left: 70%;
+}
+.gris2{
+	background-color: #6E6E6E;
+	width: 50%;
+	height: 150px;
+	margin-left: 25%;
+}
+.gris3{
+	background-color: #A4A4A4;
+	width: 100%;
+	height: 150px;
+	margin-left: -69%;
+}
+.yellow{
+	background-color: #FFFF00;
+	width: 100%;
+	height: 150px;
+	margin-left: -85%;
+}
+.pink2{
+	background-color: #DF013A;
+	width: 100%;
+	height: 150px;
+	margin-left: 85%;
+}
+.yellow2{
+	background-color: #D7DF01;
+	width: 100%;
+	height: 150px;
+	margin-left: 70%;
+}
+.carnita{
+	background-color: #F7EAC8;
+	width: 50%;
+	height: 150px;
+	margin-left: 25%;
+}
+.verde-agua{
+	background-color: #11FA9A;
+	width: 100%;
+	height: 150px;
+	margin-left: -69%;
+}
+.blue3{
+	background-color: #28ABE3;
+	width: 100%;
+	height: 150px;
+	margin-left: -85%;
+}
+.verde-gris{
+	background-color: #588C73;
+	width: 100%;
+	height: 150px;
+	margin-left: 85%;
+}
+.carnita2{
+	background-color: #F2E394;
+	width: 100%;
+	height: 150px;
+	margin-left: 70%;
+}
+.carnita3{
+	background-color: #F2AE72;
+	width: 50%;
+	height: 150px;
+	margin-left: 25%;
+}
+.pink3{
+	background-color: #D96459;
+	width: 100%;
+	height: 150px;
+	margin-left: -69%;
+}
+.vino2{
+	background-color: #8C4646;
+	width: 100%;
+	height: 150px;
+	margin-left: -85%;
+}
+.yellow3{
+	background-color: #D0C91F;
+	width: 100%;
+	height: 150px;
+	margin-left: 85%;
+}
+.blue4{
+	background-color: #85C4B9;
+	width: 100%;
+	height: 150px;
+	margin-left: 70%;
+}
+.blue5{
+	background-color: #008BBA;
+	width: 50%;
+	height: 150px;
+	margin-left: 25%;
+}
+.red{
+	background-color: #DF514C;
+	width: 100%;
+	height: 150px;
+	margin-left: -69%;
+}
+.red2{
+	background-color: #DC403B;
+	width: 100%;
+	height: 150px;
+	margin-left: -85%;
+}
+.pp{
+	width: 100%;
+	height: 150px;
+}
+.cg{
+	width: 50%;
+	height: 150px;
+}
+.text-black{
+	color: black;
+}
+.hr1{
+	width: 20%;
+	border: 1px solid black;
+}
+/*ABOUT US*/
+.mt{
+	margin-top: 5%;
+}
+.fondo-about{
+	background-color: #5858FA;
+}
+.hr2{
+	width: 20%;
+	border: 1px solid white;
+}
+.p-a{
+	padding-left: 10%;
+}
+.p-b{
+	padding-bottom: 10%;
+}
+.foto{
+	width: 80%;
+}
+/*WHAT WE DO*/
+.boton{
 	padding:2%;
-	border: solid #D0D0D0 1px;
-	width: 350px;
 }
-.package-block{
-	width: 300px;
-	height: 100px;
+/*OUR AWESOME*/
+.hr3{
+	width: 50%;
+	border: 1px dashed black;
 }
-.blue-block{
-	background-color: #011C5D;
-}
-.price-block{
-		width:  300px;
-		height: 150px;
-		padding-top: 18%;
-		font-size: 1.3em;
-}
-.titulo-cate{
-		font-size: 2.0em;
-		padding-top: 9%;
-}
-hr{
-	color: #D0D0D0;
-	height: 1px;
-	opacity: 0.3;
-}
-.ml-2{
-	margin-left: 2%;
 
-}
-.mr-2{
-	margin-right: 2%;
-}
-.bg-azul{
-		background-color:  #0dc0c0;
-}
-.bg-cian{
-	background-color: #00FFFF;
-}
-span{
-	font-size: 30px;
-	font-weight: bold;
-}*/
+
+
 
 .borde{
 	border: 2px solid green;
