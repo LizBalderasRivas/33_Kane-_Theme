@@ -220,15 +220,49 @@ header{
 .boton{
 	padding:2%;
 }
+.web:hover{
+	background-color: #0B3B24;
+}
 /*OUR AWESOME*/
 .hr3{
 	width: 50%;
 	border: 1px dashed black;
 }
-
-
-
+/*BEST PRICE*/
 
 .borde{
 	border: 2px solid green;
+}
+.bg1{
+	background-color: #B45F04;
+}
+.bg2{
+	background-color: white;
+}
+´.p-t{
+	padding-top: 10%;
+}
+.precio{
+	font-size: 200%;
+}
+.p-r{
+	padding-right: 10%;
+}
+.price:hover{
+	
+}
+/*WHAT OUR CLIENTS*/
+.autor{
+	color: orange;
+}
+/*REDES SOCIALES*/
+.fondo-foto{
+	background-image: url(../img/img-divider-img.jpg);
+	background-repeat: repeat;
+	background-size: cover;
+	height: 340px;
+}
+.price:hover{
+	text-decoration: none;
+	margin-top: 10%;
 }
